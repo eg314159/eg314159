@@ -1,2 +1,5 @@
-Hi! I'm a recent graduate of Columbia University, where I double-majored in mathematics and computer science. I'm broadly interested applications of algebra and probability theory to Theoretical Computer Science, particularly to sublinear algorithms, high-dimensional computational geometry, and modern algebraic methods for algorithm design. I am currently working on a research project with Professor Mikhail Khovanov about the probability distribution of elements generated under multiplication in the Temperley-Lieb Algebra. I am also working on developing a more efficient graph streaming algorithm for the high-dimensional minimum spanning tree problem with Professor Alexandr Andoni. In Fall 2022, I will an incoming theoretical CS Ph.D. student at Princeton University.
+Hi! I'm a PhD student in the Princeton theoretical computer science group. Before that, I did my undergrad at Columbia University, where I double-majored in mathematics and computer science. I'm broadly interested in randomized algorithms, particularly streaming/sketching, high-dimensional geometry, and communication complexity.
+
+Personal website: https://eg314159.github.io/
+
 
